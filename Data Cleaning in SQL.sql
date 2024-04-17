@@ -5,7 +5,7 @@ Cleaning Data in SQL Queries
 */ 
 
 
-select *
+select * 
 from PortfolioProject..nashvillehousing
 
 
